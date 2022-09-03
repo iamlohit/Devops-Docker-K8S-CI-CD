@@ -1,3 +1,3 @@
-This space is for my devops practice.
+Hosting, Serving, Scaled version of the below app:
 
-More details will be added as built.
+https://github.com/juliogomez/devops/blob/master/images/myhero-arch.png
